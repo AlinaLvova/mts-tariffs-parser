@@ -1,0 +1,27 @@
+.tariffsParser{
+    display: flex;
+    padding: 50px 20px;
+    flex-direction: column;
+
+    &__button {
+        width: 200px;
+        margin: 10px 0;
+        background-color: red;
+        border-radius: 8px;
+        border: none;
+        height: 50px;
+        color: white;
+        font-size: large;
+        font-weight: 700;
+    }
+}
+
+th{
+    text-align: left;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 15px; 
+  }
+  
