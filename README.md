@@ -1,8 +1,9 @@
 # Парсер данных о тарифах с сайта MTS
 
-### активировать окружение
+### Активировать окружение
 
 `source env/bin/activate`  # Для macOS и Linux
+
 `env\Scripts\activate`  # Для Windows
 
 ### Запустить бек
