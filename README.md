@@ -10,13 +10,15 @@
 
 `cd mts-tariffs-backend`
 
+`pip install -r requirements.txt`
+
 `python app.py`
 
 ### Запустить фронт
 
 `cd ..`
 
-`сd mts-tariffs-backend`
+`сd mts-tariffs-frontend`
 
 `npm i`
 
