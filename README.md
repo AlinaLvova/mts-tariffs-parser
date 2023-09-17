@@ -1,14 +1,16 @@
 # Парсер данных о тарифах с сайта MTS
 
-### Активировать окружение
-
-`source env/bin/activate`  # Для macOS и Linux
-
-`env\Scripts\activate`  # Для Windows
-
 ### Запустить бек
 
-`cd mts-tariffs-backend`
+    #### Активировать окружение
+
+    `cd mts-tariffs-backend`
+
+    `python -m venv env`
+
+    `source env/bin/activate`  # Для macOS и Linux
+
+    `env\Scripts\activate`  # Для Windows
 
 `pip install -r requirements.txt`
 
