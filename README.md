@@ -8,21 +8,28 @@
 ### Запустить бек
 
 `cd mts-tariffs-backend`
+
 `python app.py`
 
 ### Запустить фронт
 
 `cd ..`
+
 `сd mts-tariffs-backend`
+
 `npm i`
+
 `npm run start`
 
 ## Вводная
 
- Домашний сайт mts.ru
- Тарифы: https://[moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/mobile-tv-inet]
- Интернет Магазин: https://shop.mts.ru/
- Мобильные приложения Мой МТС, МТС Строки, Кион, итп (AppStore, Google Play, AppBazar
+ Домашний сайт mts.ru
+
+ Тарифы: https://[moskva.mts.ru/personal/mobilnaya-svyaz/tarifi/vse-tarifi/mobile-tv-inet]
+ 
+ Интернет Магазин: https://shop.mts.ru/
+
+ Мобильные приложения Мой МТС, МТС Строки, Кион, итп (AppStore, Google Play, AppBazar
 и тп)
 
 ## Задание
